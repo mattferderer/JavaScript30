@@ -1,3 +1,8 @@
+# NOTE TO SELF (MATT) - TRY LESSON 19 WITH TEACHING KIDS TO CODE CLASSES
+
+---
+
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
